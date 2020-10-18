@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Permanent+Marker&family=Satisfy&display=swap");
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Satisfy', cursive;
+	font-size:26px;
+	font-weight: bold;
+	background-color: rgb(230,240,230);
+
+}
+h1 {
+	font-family: 'Permanent Marker', cursive;
+	color:rgb(230,240,230);
+	font-weight: 550;
+	font-size:60px;
+}
+h2 {
+	font-family: 'Permanent Marker', cursive;
+	font-weight: lighter;
+	color: white;
+}
+
+h3 {
+ 	font-family: 'Permanent Marker', cursive;
+	font-weight: lighter;
+}
+
+.head-green {
+	font-family: 'Permanent Marker', cursive;
+	font-weight: lighter;
+	color: #5c969e;
+

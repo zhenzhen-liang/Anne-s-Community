@@ -1,0 +1,28 @@
+.btn-blue{
+	background-color: #dd5a68;
+	color: white;
+	padding: 5px 10px;
+	border-radius: 4px;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 20px;
+	text-decoration: none;
+	font-weight: lighter
+}
+
+.btn-blue:hover {
+	background-color: #659ea5;
+	color: rgb(230,240,230);
+}
+
+.btn-white{
+	background-color: rgba(0,0,0,0);
+	color: #dd5a68;
+	padding: 5px 10px;
+	border-radius: 4px;
+	font-family: 'Permanent Marker', cursive;
+	font-size: 22px;
+	text-decoration: none;
+}
+.btn-white:hover {
+	background-color: rgba(0,0,0,0);
+	color: #659ea5;
